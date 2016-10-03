@@ -1,13 +1,20 @@
-Themosis framework - Theme
+Ilustrado Restaurant - Theme
 ==========================
 
-The Themosis framework is a tool aimed to WordPress developers of any levels. But the better WordPress and PHP knowledge you have the easier it is to work with.
+Celebrating its 25th anniversary this year, Ilustrado heartily continues a tradition of serving world-class Spanish-Filipino and Global cuisines to its discriminating patrons.
 
-Themosis framework is a tool to help you develop websites and web applications faster using [WordPress](https://wordpress.org/). Using an elegant and simple code syntax, Themosis framework helps you structure and organize your code and allows you to better manage and scale your WordPress websites and applications.
+ 
+
+Serving heads of state, dignitaries and other luminaries such as the King and Queen of Spain (twice) along with local and foreign tourists, balikbayans and corporate clients allows Ilustrado to passionately promote the country’s best features – warm hospitality, wonderful food and beautiful culture.
+
+ 
+
+Through the years, the Ilustrado brand has won a reputation for excellent cuisine and impeccable service in an exceptional destination setting at the heart of historic Intramuros in the City of Manila. Today, Ilustrado is a comforting haven for regular patrons, a beloved place for the romantics, a nostalgic venue for weddings, and a top-quality Filipino caterer for important events.
 
 Development team
 ----------------
-The framework was created by [Julien Lambé](http://www.themosis.com/), who continues to lead the development.
+The theme was created by [Roville Sarate] using the themosis framework created by [Julien Lambé](http://www.themosis.com/).
+
 
 Contributing
 ------------
